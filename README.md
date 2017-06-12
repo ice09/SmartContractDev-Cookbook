@@ -13,15 +13,27 @@ A smart contract development cookbook "for runaways". Mostly ordered links and d
     * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://ryepdx.github.io/the-tao/)
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-* [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
-    * crucial information on security aspects of Smart Contract Development with Solidity
 * [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
+* https://github.com/androlo/solidity-workshop
 
 ### Security Patterns
+* [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
+    * crucial information on security aspects of Smart Contract Development with Solidity
+    
 ### Upgradebility
+
+* [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
+    * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
+    * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
+* [Techblog von Aragon](https://blog.aragon.one/tagged/development)
+
 ### Development Environment
+
+* [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
+* [Dapp - Simple command line tool for Smart Contract development (Dappsys/MakerDAO)](https://dapp.readthedocs.io/) 
+
 ## Deployment
 ## Monitoring
 
