@@ -16,18 +16,21 @@ A smart contract development cookbook "for runaways". Mostly ordered links and d
 * [OpenZeppelin: An open framework of reusable and secure smart contracts in the Solidity language.](http://zeppelin-solidity.readthedocs.io/en/latest/) 
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
-* https://github.com/androlo/solidity-workshop
+* [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 
 ### Security Patterns
 * [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
     * crucial information on security aspects of Smart Contract Development with Solidity
-    
+* [OpenZeppelin: Onwards with Smart Contracts Security](https://medium.com/zeppelin-blog/onward-with-ethereum-smart-contract-security-97a827e47702)
+
 ### Upgradebility
 
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
     * https://blog.colony.io/writing-more-robust-smart-contracts-99ad0a11e948
     * https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88
 * [Techblog von Aragon](https://blog.aragon.one/tagged/development)
+    * [Library driven development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736)
+* [OpenZeppelin on Proxy Libraries](https://medium.com/zeppelin-blog/proxy-libraries-in-solidity-79fbe4b970fd)
 
 ### Development Environment
 
