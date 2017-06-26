@@ -1,5 +1,5 @@
 # SmartContractDev-Cookbook
-A smart contract development cookbook "for runaways". Mostly ordered links and howtos. Focussed on best practices and security.
+A smart contract development cookbook "for runaways". Mostly ordered links and howtos. Focused on best practices and security.
 
 ## Patterns for Smart Contract Development
 
