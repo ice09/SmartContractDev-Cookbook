@@ -17,7 +17,7 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
     * Similar to Dappsys, more integrated into Truffle framework
     * [Blog about Best Practices with Security Audits](https://medium.com/zeppelin-blog)
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
-* [Simpler Ethereum Multisig}(https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
+* [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 
 ### Security Patterns
 * [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
