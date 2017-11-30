@@ -19,6 +19,10 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 * [Advanced Workshop with Assembly](https://github.com/androlo/solidity-workshop)
 * [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 
+#### Gamification
+
+* [Ethernaut](https://ethernaut.zeppelin.solutions)
+
 ### Security Patterns
 * [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
     * crucial information on security aspects of Smart Contract Development with Solidity
@@ -43,6 +47,9 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 ## Integration Patterns
 ### Frontend Integration
+
+* [Designing the Architecture for your Ethereum Application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
+
 #### SPA with react.js
 #### PoC User Management with MetaMask
 ### Middleware Integration
