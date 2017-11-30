@@ -21,7 +21,8 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 #### Gamification
 
-* [Ethernaut](https://ethernaut.zeppelin.solutions)
+* [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
+* [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 
 ### Security Patterns
 * [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
