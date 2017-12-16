@@ -41,10 +41,17 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 ### Development Environment
 
 * [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
-* [Dapp - Simple command line tool for Smart Contract development (Dappsys/MakerDAO)](https://dapp.readthedocs.io/) 
+* [Dapp - Simple command line tool for Smart Contract development (Dappsys/MakerDAO)](https://dapp.readthedocs.io/)
+* [Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)
+* [Remix - Solidity IDE](http://remix.ethereum.org/)
 
 ## Deployment
+
+* [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
+
 ## Monitoring
+
+* [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) 
 
 ## Integration Patterns
 ### Frontend Integration
