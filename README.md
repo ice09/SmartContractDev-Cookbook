@@ -29,6 +29,10 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
     * crucial information on security aspects of Smart Contract Development with Solidity
 * [OpenZeppelin: Onwards with Smart Contracts Security](https://medium.com/zeppelin-blog/onward-with-ethereum-smart-contract-security-97a827e47702)
 
+### Security Frameworks
+* [Oyente - An Analysis Tool for Smart Contracts](https://github.com/melonproject/oyente)
+* [Mythril - A Blockchain Exploration and Bug Discovery Framework](https://hackernoon.com/introducing-mythril-a-framework-for-bug-hunting-on-the-ethereum-blockchain-9dc5588f82f6)
+
 ### Upgradebility
 
 * [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/@elena_di)
