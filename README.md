@@ -23,6 +23,8 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 * [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions)
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+* [Cryptozombies](https://cryptozombies.io/)
+* [Capture the Ether](https://capturetheether.com/)
 
 ### Security Patterns
 * [ConsenSys: Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
@@ -44,13 +46,18 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 
 ### Development Environment
 
-* [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
 * [Dapp - Simple command line tool for Smart Contract development (Dappsys/MakerDAO)](https://dapp.readthedocs.io/)
-* [Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)
 * [Remix - Solidity IDE](http://remix.ethereum.org/)
+* [Truffle](http://truffleframework.com/)
+
+### Runtime Environment
+
+* [Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)
+* [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html)
 
 ## Deployment
 
+* [Truffle](http://truffleframework.com/)
 * [Populus - Smart Contract development framework in Python](http://populus.readthedocs.io/en/latest/)
 
 ## Monitoring
@@ -58,9 +65,11 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) 
 
 ## Integration Patterns
+
 ### Frontend Integration
 
 * [Designing the Architecture for your Ethereum Application](https://blog.zeppelin.solutions/designing-the-architecture-for-your-ethereum-application-9cec086f8317)
+* [Web3 Design Patterns](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1)
 
 #### SPA with react.js
 #### PoC User Management with MetaMask
