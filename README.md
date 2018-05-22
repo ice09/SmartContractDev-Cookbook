@@ -55,7 +55,7 @@ A smart contract development cookbook "for runaways". Mostly ordered links and h
 * [Ganache - Personal Blockchain for Ethereum Development](https://github.com/trufflesuite/ganache)
 * [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html)
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait)
- * Add sample for individual account (extra-accounts) as gist
+    * [Sample with individual account (extra-accounts)](https://gist.github.com/ice09/04d3272869cfa796d018636a36f23f17)
 
 ## Deployment
 
