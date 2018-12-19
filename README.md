@@ -1,3 +1,6 @@
+For a more complete guide and resource list, see https://github.com/ConsenSys/ethereum-developer-tools-list  
+Most of the links in this cookbook are included in the linked list as well.
+
 # SmartContractDev-Cookbook
 A smart contract development cookbook "for runaways". Mostly ordered links and howtos. Focused on best practices and security.
 
